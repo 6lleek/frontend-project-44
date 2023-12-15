@@ -1,0 +1,25 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "Brain Games",
+  "main": "index.js",
+  "bin": {
+    "code": "bin/brain-games.js"
+  },
+  "scripts": {
+    "test": "console.log(\"Hello!\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6lleek/frontend-project-44.git"
+  },
+  "keywords": [
+    "hexlet"
+  ],
+  "author": "Viktor Grigoryev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6lleek/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/6lleek/frontend-project-44#readme"
+}
